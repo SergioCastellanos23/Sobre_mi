@@ -5,16 +5,16 @@
 Este portafolio es creado con fines profesionales, medir mi capacidad como Consultor de riesgo y ciencia de datos. 
 Estoy entusiasmado de aportar a este mundo del data science y al igual me encantaría tener retroalimentación de profesionales en el tema.
 
-- Mail 📧: sergio.castellanost23@gmail.com
+- Mail 📩: sergio.castellanost23@gmail.com
 - LinkedIn Profile: www.linkedin.com/in/sergio-antonio-castellanos-torres-828946126
 
 
 ## EDUCACIÓN 
-- Agronegocios Internacionales | Universidad Veracruzana | 2021
+- Agronegocios Internacionales🌾🌎 | Universidad Veracruzana | 2021
 
 ## EXPERIENCIA 
  
-### Consultor de riesgo y Ciencia de Datos 
+### Consultor de riesgo y Ciencia de Datos📊📈💻 
 - 3PI, LLC · ene. 2023 - actualidad ·
 
 Desempeño el rol como Consultor de Riesgo y Ciencia de datos en el área de Project & Program Management (Consulting Services) en la construcción de modelos estadísticos y predictivos con limitados o gran volumen de datos:

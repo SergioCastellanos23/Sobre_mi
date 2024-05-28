@@ -21,7 +21,8 @@ Desempeño el rol como Consultor de Riesgo y Ciencia de datos en el área de Pro
  
 - Apoyo al equipo de modelado en la limpieza, transformación y visualización de datos con Pandas, Numpy, Matplotlib, Seaborn y Sklearn en la detección de valores atípicos, imputación de datos y transformación, agrupación o codificación de variables categóricas para la construcción de modelos.
 - Proporcionar insights con análisis de estadística descriptiva e inferencial en el proceso de selección de variables con un enfoque hacia la construcción de un modelo parsimonioso y monotónico (Weight Of Evidence, Information Value, Correlaciones, Chi Squared Test, Variable Clustering, Lasso, Ridge, ElasticNet, Backward, Forward) con OptimalBinning, Matplotlib, Statsmodels, VarClusHi que aportan información crucial sobre las mejores variables predictoras o clave para el modelado.
-- Construcción de modelos de Credit Scoring, Credit Risk (Logistic Regression, Decision Trees, Random Forest, XGBoost, AdaBoost) para incrementar la aprobación de solicitudes en el sector de crédito, manteniendo el riesgo de incumplimiento y aumentando la rentabilidad.
+- Construcción de Credit Risk Models y Scorecards (Regresión Lineal, Regresión Logística, Árboles de Decisión, Random Forest, XGBoost, AdaBoost) para incrementar la aprobación de solicitudes en el sector de crédito, manteniendo el riesgo de incumplimiento bajo control y aumentando la rentabilidad.
+- Creación de módulos en Python para reutilizarlos en diferentes proyectos, disminuyendo el tiempo de procesamiento en fases cruciales y tareas diarias (limpieza, transformación o análisis de datos).
 - Consultar y capturar datos utilizando bases de datos como PostgreSQL para acceder a la información necesaria en mis proyectos.
 - Presentación de resultados a nuestros stakeholders mediante presentaciones en PowerPoint aclarando todos los hallazgos dentro del proceso.
 

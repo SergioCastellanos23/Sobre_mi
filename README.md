@@ -1,12 +1,12 @@
-# AboutMe
-# SERGIO ANTONIO CASTELLANOS TORRES
+# *AboutMe*
+# ***SERGIO ANTONIO CASTELLANOS TORRES***
 #### Consultor de riesgo - Ciencia de Datos | Credit Risk Analysis| Agribusiness
 
 Este portafolio es creado con fines profesionales, medir mi capacidad como Consultor de riesgo y ciencia de datos. 
 Estoy entusiasmado de aportar a este mundo del data science y al igual me encantaría tener retroalimentación de profesionales en el tema.
 
-- Mail 📩: sergio.castellanost23@gmail.com
-- LinkedIn Profile: www.linkedin.com/in/sergio-antonio-castellanos-torres-828946126
+- ***Mail*** 📩: sergio.castellanost23@gmail.com
+- ***LinkedIn Profile***: www.linkedin.com/in/sergio-antonio-castellanos-torres-828946126
 
 
 ## EDUCACIÓN 
@@ -28,7 +28,7 @@ Desempeño el rol como Consultor de Riesgo y Ciencia de datos en el área de Pro
 
 
 
-### CURSOS
+### ***CURSOS***
 - Intermediate Machine Learning | Kaggle
 - Python
 - PostgreSQL
